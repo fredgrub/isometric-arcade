@@ -1,0 +1,12 @@
+# Window dimensions
+SCREEN_SIZE = (1280, 640)
+SCREEN_TITLE = "My Game"
+
+# Isometric grid
+WORLD_SIZE = (10, 10)
+TILE_SIZE = (64, 32)
+ORIGIN = (10, 2)
+
+# Text
+DEFAULT_FONT_SIZE = 18
+DEFAULT_LINE_HEIGHT = 30
